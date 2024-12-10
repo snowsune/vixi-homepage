@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "kitsune-theme"
+
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1

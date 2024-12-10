@@ -1,0 +1,3 @@
+[submodule "themes/kitsune-theme"]
+	path = themes/kitsune-theme
+	url = git@github.com:KenwoodFox/kitsune-theme.git
